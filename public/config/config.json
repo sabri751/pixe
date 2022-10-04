@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0xaBecAbe7D81e3e0a2e8374537382f44F4dD55513",
   "SCAN_LINK": "https://etherscan.io/address/0xaBecAbe7D81e3e0a2e8374537382f44F4dD55513",
   "NETWORK": {
-    "NAME": "Ethereum",
+    "NAME": "Ropsten",
     "SYMBOL": "ETH",
-    "ID": 1
+    "ID": 4
   },
   "NFT_NAME": "Pixelizen Mobs",
   "SYMBOL": "PM-NFT",

@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0xaBecAbe7D81e3e0a2e8374537382f44F4dD55513",
-  "SCAN_LINK": "https://etherscan.io/address/0xaBecAbe7D81e3e0a2e8374537382f44F4dD55513",
+  "CONTRACT_ADDRESS": "0x04993cbbd90f756514cb74b013cc11494fa521ea",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x04993cbbd90f756514cb74b013cc11494fa521ea",
   "NETWORK": {
-    "NAME": "Ropsten",
+    "NAME": "Goerli",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 5
   },
   "NFT_NAME": "Pixelizen Mobs",
   "SYMBOL": "PM-NFT",
   "MAX_SUPPLY": 2200,
- "WEI_COST": 5000000000000000,
-  "DISPLAY_COST": 0.005,
+ "WEI_COST": 100000000000000,
+  "DISPLAY_COST": 0.0001,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/pixelizen-mobs",
